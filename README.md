@@ -1,5 +1,5 @@
 # JAlgoArena API [![Build Status](https://travis-ci.org/spolnik/JAlgoArena-API.svg?branch=master)](https://travis-ci.org/spolnik/JAlgoArena-API) [![GitHub release](https://img.shields.io/github/release/spolnik/jalgoarena-api.svg)]()
-
+a
 JAlgoArena API is API Gateway service for all backend JAlgoArena services. It's created based on Netflix Zuul with usage of Spring Boot and Spring Cloud.
 
 - [Introduction](#introduction)
